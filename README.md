@@ -2,8 +2,8 @@
 > Web开发入门学习路径，预计周期-3个月 ， 所有项目提交Github
 
 - [基础掌握 (10 - 15 天)](#基础掌握)
-  - [HTML](#HTML)
-  - [CSS](#HTML)
+  - [HTML](#HTML & CSS)
+  - [CSS](#HTML & CSS)
   - [Git/Github](#Git/Github)
   - [节点项目-展示界面 (1 - 2 天)](#节点项目-展示界面)
   - [JavaScript](#JavaScript)
